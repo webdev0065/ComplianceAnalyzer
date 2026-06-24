@@ -1,0 +1,6 @@
+@ComplianceAnalyzer.Core_HostAddress = http://localhost:5113
+
+GET {{ComplianceAnalyzer.Core_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
